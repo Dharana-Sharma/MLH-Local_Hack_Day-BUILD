@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    border-radius: 10px;
+}
+.container {
+    padding: 1rem 1rem;
+    height: 200px;
+    width: 230px;
+}
+
+#linksList {
+    padding-left: 0;
+}
+
+
+
+
