@@ -13,9 +13,13 @@ Extensions start with their manifest. Create a file called manifest.json and inc
 The directory holding the manifest file can be added as an extension in developer mode in its current state.
 
 1.Open the Extension Management page by navigating to chrome://extensions.
-     - Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
-     - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
+    
+    - Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
+     
+    - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
+
 2.Enable Developer Mode by clicking the toggle switch next to Developer mode.
+
 3.Click the Load unpacked button and select the extension directory.
 
 Ta-da! The extension has been successfully installed. Add icons by following the files above. Use CSS to add colours to your extension and html for the structure and the content you want to put up in the popup.
