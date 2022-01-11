@@ -6,7 +6,8 @@ Extensions are software programs, built on web technologies (such as HTML, CSS, 
 
 ![MyAccountLinks](https://user-images.githubusercontent.com/88919299/148800439-34fee43a-d9b3-4f71-bdc9-f1a04e0531dc.PNG)
 
-##How to make this extension?
+<h2>How to make this extension?</h2>
+
 Extensions start with their manifest. Create a file called manifest.json and include the given code.
 
 The directory holding the manifest file can be added as an extension in developer mode in its current state.
